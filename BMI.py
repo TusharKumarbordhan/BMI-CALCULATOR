@@ -1,4 +1,3 @@
-65
 
 def get_float(prompt):
     """Get a positive float from the user."""
